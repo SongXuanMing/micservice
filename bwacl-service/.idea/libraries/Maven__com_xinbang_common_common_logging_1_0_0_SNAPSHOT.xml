@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.xinbang.common:common-logging:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xinbang/common/common-logging/1.0.0-SNAPSHOT/common-logging-1.0.0-20161221.131050-4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xinbang/common/common-logging/1.0.0-SNAPSHOT/common-logging-1.0.0-20161221.131050-4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xinbang/common/common-logging/1.0.0-SNAPSHOT/common-logging-1.0.0-20161221.131050-4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

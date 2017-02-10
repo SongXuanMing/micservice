@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.xinbang.commonservice:commonservice-common:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xinbang/commonservice/commonservice-common/1.0.0-SNAPSHOT/commonservice-common-1.0.0-20170111.132022-43.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xinbang/commonservice/commonservice-common/1.0.0-SNAPSHOT/commonservice-common-1.0.0-20170111.132022-43-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xinbang/commonservice/commonservice-common/1.0.0-SNAPSHOT/commonservice-common-1.0.0-20170111.132022-43-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

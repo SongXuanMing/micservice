@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.xinbang.common:xbcommon:1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xinbang/common/xbcommon/1.2-SNAPSHOT/xbcommon-1.2-20170114.074057-23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xinbang/common/xbcommon/1.2-SNAPSHOT/xbcommon-1.2-20170114.074057-23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xinbang/common/xbcommon/1.2-SNAPSHOT/xbcommon-1.2-20170114.074057-23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
